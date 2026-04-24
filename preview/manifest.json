@@ -1,10 +1,10 @@
 {
-    "Version":  "1.0.0",
-    "DownloadUrl":  "",
-    "ReleaseNotes":  "Version inicial",
-    "ReleasedDate":  "2026-04-06T23:42:22Z",
+    "Version":  "1.0.0-preview1",
+    "DownloadUrl":  "https://raw.githubusercontent.com/ecaweb-consulting/ECASmartAgro-updates-/main/preview/ECASmartAgro-v1.0.0-preview1.zip",
+    "ReleaseNotes":  "",
+    "ReleasedDate":  "2026-04-24T10:14:15Z",
     "IsMandatory":  false,
-    "FileSize":  0,
-    "FileHash":  "",
+    "FileSize":  27657097,
+    "FileHash":  "0c12d9b53cc0dc2eff2f5ed9186ee0a3605e55a7fa5397388c22991cd71f63bf",
     "Channel":  "preview"
 }
